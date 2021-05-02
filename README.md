@@ -1,5 +1,6 @@
 # face-recognition-_jisong
 구글 Teachable Machine 이용하여 모델링 하였습니돠,,, 
+하지만 데이터 셋이 너무 작음,, ㅜㅡㅜ
 
 
 
