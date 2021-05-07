@@ -22,4 +22,8 @@ labels를 보면 나와있듯
 
 # Colab
 아직 정확도는 61.33% 라 수정 작업중입니다....
+
 분류 모델 --> ResNet 34 사용 
+
+epochs = 50, batch size =6
+lr=0.001, momentum=0.9
